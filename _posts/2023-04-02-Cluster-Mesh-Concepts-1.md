@@ -21,5 +21,7 @@ Some of the well-known patterns to address this challenge of fragmented capacity
 ## Cluster Mesh
 
 A [cluster mesh](images/cluster-mesh.png) is formed by integrting together multiple kubernetes clusters.    
-For e.g. 
+For e.g.
+
+![cluster mesh](images/cluster-mesh.png)
 

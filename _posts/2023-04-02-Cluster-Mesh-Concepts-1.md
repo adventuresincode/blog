@@ -23,5 +23,5 @@ Some of the well-known patterns to address this challenge of fragmented capacity
 A [cluster mesh](images/cluster-mesh.png) is formed by integrating together multiple kubernetes clusters.    
 For e.g.
 
-![images/cluster-mesh.png](./images/cluster-mesh.png?raw=true)
+![images/cluster-mesh.png](./images/clusters-fleet.jpg?raw=true)
 
